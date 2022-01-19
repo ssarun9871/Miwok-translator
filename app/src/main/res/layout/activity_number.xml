@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Here we can change root layout from ListView to GridView
+and also change it in NumberActivity.java
+and to change no. of columns in GridView add numColumns attribute in Grid layout-->
+
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+   </ListView>
